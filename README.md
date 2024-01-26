@@ -1,1 +1,1 @@
-# Forest-Cover-Types-Exploration-and-Prediction
+Embarked on an enriching journey in **Forest Cover Type Prediction** – from meticulous data preprocessing and seamless MySQL-Python integration to crafting compelling Power BI dashboards and implementing a robust Random Forest Classifier. Thrilled to unveil insights and accurate predictions! 
